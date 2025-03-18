@@ -734,7 +734,7 @@ header {
   }  
 
   .logo-footer {
-    width: 200px;
+    width: 100px;
   }
 
   .hero-wrapper-int {
@@ -764,9 +764,5 @@ header {
 
   .nav-mob-deploy {
     top: 213px;
-  }
-
-  .logo-footer {
-    width: 164px;
   }
 }
