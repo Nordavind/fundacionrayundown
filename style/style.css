@@ -700,7 +700,7 @@ header {
 
   .title-text-center {
     padding-top: 60px;
-    padding-bottom: 60px;
+    padding-bottom: 0px;
   }
 
   .grid-two-col {
@@ -763,10 +763,6 @@ header {
   .hero-wrapper-int {
     padding-top: 60px;
     padding-bottom: 60px;
-  }
-
-  .img-int {
-    height: 150px;
   }
 }
 
